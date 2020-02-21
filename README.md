@@ -40,7 +40,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [x] Explain the difference between `Relational Databases` and `SQL`.
 
- - SQL a special software program that helps users create and maintain a database. A relational database represents a collection of related (two-dimensional) tables.
+ - SQL a query language that helps users communicate with the database. A relational database represents a collection of related (two-dimensional) tables.
 
 - [x] Why do tables need a `primary key`?
 
@@ -52,7 +52,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [x] What do we need in order to have a _many to many_ relationship between two tables.
 
- - We need a third table that will act as an intermediary by forming a 1:many relation.
+ - We need a third/join table that will act as an intermediary by forming a 1:many relation.
 
 ## Minimum Viable Product
 
